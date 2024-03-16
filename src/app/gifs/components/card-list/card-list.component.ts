@@ -9,7 +9,7 @@ import { Gif } from '../../interface/gifs.interfaces';
 export class CardListComponent {
 
 @Input()
-public gifs: Gif[] = [];
+public gifs: Gif[] = [];   
 
 
 }
